@@ -1,1 +1,1 @@
-<h1>Bem vindo <?php echo $user['name']; ?></h1>
+<h1>Bem vindo <?php echo $user['name']; ?> a administração</h1>
